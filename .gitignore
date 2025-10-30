@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# comment out next lines if you want to commit data
+*.csv
+*.xlsx
