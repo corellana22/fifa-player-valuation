@@ -35,6 +35,11 @@ This project uses an 18,000-player FIFA dataset to investigate the key drivers o
 
 ---
 
+## Sample Insights
+- Higher overall ratings strongly correlate with increased market value
+- Younger players with high potential are disproportionately valued
+- Certain positions (e.g., forwards) tend to have higher market value distributions
+
 ## Repository Structure
 ```text
 fifa-player-valuation/
@@ -42,10 +47,7 @@ fifa-player-valuation/
 ├── data/
 │   └── fifa_players.csv
 │
-├── scripts/
-│   └── analysis.py
-│
-├── images/
-│   └── visualizations.png
+├── notebooks/
+│   └── fifa_player_valuation.ipynb
 │
 └── README.md
